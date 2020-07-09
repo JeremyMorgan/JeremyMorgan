@@ -1,5 +1,8 @@
-### Hi there 👋
+### Welcome to my Profile👋
 
+I'm currently working on a few small projects, nothing big. I generally use this to store code from my tutorials, courses, YouTube videos etc. 
+
+[Follow me on Twitter](https://www.twitter.com/JeremyCMorgan) for realtime updates on my geeky projects
 <!--
 **JeremyMorgan/JeremyMorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
