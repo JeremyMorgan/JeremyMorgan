@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/github/followers/mattn?label=Follow&style=social)](https://github.com/jeremymorgan)
+[![Github](https://img.shields.io/github/followers/jeremymorgan?label=Follow&style=social)](https://github.com/jeremymorgan)
 
 I ❤ Open Source. 
 
