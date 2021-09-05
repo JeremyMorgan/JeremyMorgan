@@ -1,8 +1,10 @@
 [![Github](https://img.shields.io/github/followers/jeremymorgan?label=Follow&style=social)](https://github.com/jeremymorgan)
 
-I ❤ Open Source. 
-
 ### Welcome to my Profile👋
+
+I love coding and sharing what I learn, as I learn it. I'm split pretty well between Linux/Go/Python and Windows/C#/Blazor stuff at the moment. 
+
+You can catch [my live streams here](https://www.twitch.tv/jeremymorgan) or check out my [YouTube Channel](https://www.youtube.com/jeremymorgan)
 
 I'm currently working on a few small projects, nothing big. I generally use this to store code from my tutorials, courses, YouTube videos etc. 
 
