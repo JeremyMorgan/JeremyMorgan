@@ -4,6 +4,8 @@
 
 I love coding and sharing what I learn, as I learn it. I'm split pretty well between Linux/Go/Python and Windows/C#/Blazor stuff at the moment. 
 
+I'm a huge fan of [Hugo](https://gohugo.io/) and I'm finding new ways to modify and bend it every day for [Programming Blog](https://www.jeremymorgan.com)
+
 You can catch [my live streams here](https://www.twitch.tv/jeremymorgan) or check out my [YouTube Channel](https://www.youtube.com/jeremymorgan)
 
 
