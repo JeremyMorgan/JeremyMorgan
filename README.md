@@ -1,3 +1,7 @@
+[![Github](https://img.shields.io/github/followers/mattn?label=Follow&style=social)](https://github.com/jeremymorgan)
+
+I ❤ Open Source. 
+
 ### Welcome to my Profile👋
 
 I'm currently working on a few small projects, nothing big. I generally use this to store code from my tutorials, courses, YouTube videos etc. 
