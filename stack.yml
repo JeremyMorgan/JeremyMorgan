@@ -16,6 +16,22 @@
     - url: https://github.com/JeremyMorgan/turkeytime-golang
     - url: https://github.com/JeremyMorgan/FindTheBadGuys
 
+- name: .NET
+  logo: dotnet
+  url: https://docs.microsoft.com/en-us/dotnet/csharp/
+  color: '#512BD4'
+  projects:
+    - url: https://github.com/JeremyMorgan/TruckGameDemo
+    - url: https://github.com/JeremyMorgan/ZipToCityAzureFunction
+    - url: https://github.com/JeremyMorgan/TurkeyTimeAPI
+    - url: https://github.com/JeremyMorgan/Hands-on-dotnet-core
+    - url: https://github.com/JeremyMorgan/fake-dotnetcore-api
+    - url: https://github.com/JeremyMorgan/cmd-webpage-speed-tester
+    - url: https://github.com/JeremyMorgan/Dapper-Demo-ConsoleApp
+    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station_API
+    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Temperature_API
+    - url: https://github.com/JeremyMorgan/ipcountrycode
+
 - name: Python
   logo: python
   url: https://www.python.org/
