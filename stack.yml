@@ -1,0 +1,33 @@
+- name: profile_stack
+  uses: gleich/profile_stack@v2.0.4
+
+- name: Golang
+  logo: go
+  url: https://golang.org/
+  color: '#7FD6EA'
+  projects:
+    - url: https://github.com/JeremyMorgan/PersonWeb
+    - url: https://github.com/JeremyMorgan/GoSqliteDemo
+    - url: https://github.com/JeremyMorgan/HotCarAPI
+    - url: https://github.com/JeremyMorgan/HotCar
+    - url: https://github.com/JeremyMorgan/GoZipCodeDigitalOcean
+    - url: https://github.com/JeremyMorgan/ZipCodeLookupGo
+    - url: https://github.com/JeremyMorgan/Compare-Strings-Go
+    - url: https://github.com/JeremyMorgan/ReadTextFileGo
+    - url: https://github.com/JeremyMorgan/GoTempSensor
+    - url: https://github.com/JeremyMorgan/FindTheBadGuys
+    - url: https://github.com/JeremyMorgan/turkeytime-golang
+    - url: https://github.com/JeremyMorgan/FindTheBadGuys
+
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: '#3C78A9'
+  projects:
+    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station
+    - url: https://github.com/JeremyMorgan/CPUMeminfo
+    - url: https://github.com/JeremyMorgan/Hot-Car-Test
+    - url: https://github.com/JeremyMorgan/Hands_on_Internet_of_Things
+    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station_PY_API
+    - url: https://github.com/JeremyMorgan/Raspberry-Pi-LED-Demo
+
