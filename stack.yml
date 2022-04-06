@@ -1,7 +1,3 @@
-- name: profile_stack
-  uses: gleich/profile_stack@v2.0.4
-  
-
 - name: Golang
   logo: go
   url: https://golang.org/
