@@ -1,15 +1,24 @@
 - name: Python
-  logo: opencv
+  logo: python
   url: https://www.python.org
   color: '#3C78A9'
   projects:
     - url: https://github.com/JeremyMorgan/opencv-demos
+    - url: https://github.com/JeremyMorgan/Matplotlib-benchmark-viewer
     - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station
     - url: https://github.com/JeremyMorgan/CPUMeminfo
     - url: https://github.com/JeremyMorgan/Hot-Car-Test
     - url: https://github.com/JeremyMorgan/Hands_on_Internet_of_Things
     - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station_PY_API
     - url: https://github.com/JeremyMorgan/Raspberry-Pi-LED-Demo
+    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Temperature
+    - url: https://github.com/JeremyMorgan/Twitter-Tools
+- name: OpenCV
+  logo: opencv
+  url: https://www.oprncv.org
+  color: '#8BDA67'
+  projects:
+    - url: https://github.com/JeremyMorgan/opencv-demos
 - name: Golang
   logo: go
   url: https://golang.org
@@ -27,17 +36,21 @@
     - url: https://github.com/JeremyMorgan/FindTheBadGuys
     - url: https://github.com/JeremyMorgan/turkeytime-golang
     - url: https://github.com/JeremyMorgan/FindTheBadGuys
+    - url: https://github.com/JeremyMorgan/RandomTestPage
+    - url: https://github.com/JeremyMorgan/golang-API-Test
 - name: JavaScript
   logo: javascript  
   url: https://www.javascript.com
   color: '#F7DF1E'
   projects:
+    - url: https://github.com/JeremyMorgan/ToadallyAwesome
     - url: https://github.com/JeremyMorgan/Angular-Kickstart
     - url: https://github.com/JeremyMorgan/Rowena-Fire-Realtime
     - url: https://github.com/JeremyMorgan/bryant-fire-realtime
     - url: https://github.com/JeremyMorgan/two-bulls-realtime
     - url: https://github.com/JeremyMorgan/seotools
     - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station_WebUI
+    - url: https://github.com/JeremyMorgan/Bird-Strike
 - name: .NET
   logo: dotnet
   url: https://docs.microsoft.com/en-us/dotnet/csharp/
@@ -45,6 +58,7 @@
   projects:
     - url: https://github.com/JeremyMorgan/QRCode-Generator-Azure-Function
     - url: https://github.com/JeremyMorgan/BlazorFaceRec
+    - url: https://github.com/JeremyMorgan/Employees-Demo
     - url: https://github.com/JeremyMorgan/AzureFunctions_Blazor
     - url: https://github.com/JeremyMorgan/TruckGameDemo
     - url: https://github.com/JeremyMorgan/ZipToCityAzureFunction
