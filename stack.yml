@@ -1,3 +1,15 @@
+- name: Python
+  logo: opencv
+  url: https://www.python.org
+  color: '#3C78A9'
+  projects:
+    - url: https://github.com/JeremyMorgan/opencv-demos
+    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station
+    - url: https://github.com/JeremyMorgan/CPUMeminfo
+    - url: https://github.com/JeremyMorgan/Hot-Car-Test
+    - url: https://github.com/JeremyMorgan/Hands_on_Internet_of_Things
+    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station_PY_API
+    - url: https://github.com/JeremyMorgan/Raspberry-Pi-LED-Demo
 - name: Golang
   logo: go
   url: https://golang.org
@@ -15,7 +27,17 @@
     - url: https://github.com/JeremyMorgan/FindTheBadGuys
     - url: https://github.com/JeremyMorgan/turkeytime-golang
     - url: https://github.com/JeremyMorgan/FindTheBadGuys
-
+- name: JavaScript
+  logo: javascript  
+  url: https://www.javascript.com
+  color: '#F7DF1E'
+  projects:
+    - url: https://github.com/JeremyMorgan/Angular-Kickstart
+    - url: https://github.com/JeremyMorgan/Rowena-Fire-Realtime
+    - url: https://github.com/JeremyMorgan/bryant-fire-realtime
+    - url: https://github.com/JeremyMorgan/two-bulls-realtime
+    - url: https://github.com/JeremyMorgan/seotools
+    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station_WebUI
 - name: .NET
   logo: dotnet
   url: https://docs.microsoft.com/en-us/dotnet/csharp/
@@ -35,31 +57,6 @@
     - url: https://github.com/JeremyMorgan/Raspberry_Pi_Temperature_API
     - url: https://github.com/JeremyMorgan/ipcountrycode
     - url: https://github.com/JeremyMorgan/Simple-ASP-WebAPI-Example
-
-- name: Python
-  logo: python
-  url: https://www.python.org
-  color: '#3C78A9'
-  projects:
-    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station
-    - url: https://github.com/JeremyMorgan/CPUMeminfo
-    - url: https://github.com/JeremyMorgan/Hot-Car-Test
-    - url: https://github.com/JeremyMorgan/Hands_on_Internet_of_Things
-    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station_PY_API
-    - url: https://github.com/JeremyMorgan/Raspberry-Pi-LED-Demo
-
-- name: JavaScript
-  logo: javascript  
-  url: https://www.javascript.com
-  color: '#F7DF1E'
-  projects:
-    - url: https://github.com/JeremyMorgan/Angular-Kickstart
-    - url: https://github.com/JeremyMorgan/Rowena-Fire-Realtime
-    - url: https://github.com/JeremyMorgan/bryant-fire-realtime
-    - url: https://github.com/JeremyMorgan/two-bulls-realtime
-    - url: https://github.com/JeremyMorgan/seotools
-    - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station_WebUI
-
 - name: Pluralsight
   logo: pluralsight
   url: https://www.pluralsight.com
