@@ -19,6 +19,7 @@
   color: '#8BDA67'
   projects:
     - url: https://github.com/JeremyMorgan/opencv-demos
+    - url: https://github.com/JeremyMorgan/OpenCV-Erosion-Demo
 - name: Golang
   logo: go
   url: https://golang.org
