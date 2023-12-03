@@ -4,10 +4,6 @@
 
 I love coding and sharing what I learn, as I learn it. 
 
-Lately I've been doing a lot of live streaming and dumping the code here. 
-
-For the [All Hands on Tech livestream](https://www.twitch.tv/pluralsight_live) I've been working on [Toadally Awesome](https://) which is a 2D platform game in JavaScript.
-
 For [My personal stream](https://www.twitch.tv/jeremymorgan) I've been building lots of Python and Computer Vision projects.
 
 I'm a huge fan of [Hugo](https://gohugo.io/) and I'm finding new ways to modify and bend it every day for my [Programming Blog](https://www.jeremymorgan.com)
