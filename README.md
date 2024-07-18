@@ -4,20 +4,19 @@
 
 I love coding and sharing what I learn, as I learn it. 
 
-For [My personal stream](https://www.twitch.tv/jeremymorgan) I've been building lots of Python and Computer Vision projects.
-
-I'm a huge fan of [Hugo](https://gohugo.io/) and I'm finding new ways to modify and bend it every day for my [Programming Blog](https://www.jeremymorgan.com)
-
-You can catch [my live streams here](https://www.twitch.tv/jeremymorgan) or check out my [YouTube Channel](https://www.youtube.com/jeremymorgan)
-
-
 - 🔭 I’m currently working on building content to teach coding
 - 🌱 I’m currently learning Computer Vision, AI, and advanced Go
 - 💬 Ask me about anything I've built here and how I can help you 
 
 I'm working on a few small projects, nothing big. I generally use this to store code from my tutorials, courses, YouTube videos etc. 
 
-[Follow me on Twitter](https://www.twitter.com/JeremyCMorgan) for realtime updates on my geeky projects
+Connect with me on [Twitter](https://x.com/intent/follow?screen_name=JeremyCMorgan) or [LinkedIn](https://www.linkedin.com/in/jeremycmorgan/) for realtime updates on my wacky projects.
+
+For [My personal stream](https://www.twitch.tv/jeremymorgan) I've been building lots of Python and Computer Vision projects.
+
+I'm a huge fan of [Hugo](https://gohugo.io/) and I'm finding new ways to modify and bend it every day for my [Programming Blog](https://www.jeremymorgan.com)
+
+You can catch [my live streams here](https://www.twitch.tv/jeremymorgan) or check out my [YouTube Channel](https://www.youtube.com/jeremymorgan)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremymorgan&hide=html)
 ![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jeremymorgan&show_icons=true&count_private=true&line_height=40)
