@@ -3,6 +3,8 @@
   url: https://www.python.org
   color: '#3C78A9'
   projects:
+    - url: https://github.com/JeremyMorgan/HAM-Radio-Practice-Web
+    - url: https://github.com/JeremyMorgan/IndexNowSubmitter
     - url: https://github.com/JeremyMorgan/Python-Tutorials-Flask-Web-App
     - url: https://github.com/JeremyMorgan/Matplotlib-benchmark-viewer
     - url: https://github.com/JeremyMorgan/Raspberry_Pi_Weather_Station
