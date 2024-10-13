@@ -3,6 +3,8 @@
   url: https://www.python.org
   color: '#3C78A9'
   projects:
+    - url: https://github.com/JeremyMorgan/sitemaptopdf
+    - url: https://github.com/JeremyMorgan/PowerPointNotesTool
     - url: https://github.com/JeremyMorgan/HAM-Radio-Practice-Web
     - url: https://github.com/JeremyMorgan/IndexNowSubmitter
     - url: https://github.com/JeremyMorgan/Python-Tutorials-Flask-Web-App
@@ -16,6 +18,7 @@
     - url: https://github.com/JeremyMorgan/Raspberry_Pi_Temperature
     - url: https://github.com/JeremyMorgan/Twitter-Tools
     - url: https://github.com/JeremyMorgan/opencv-demos
+    - url: https://github.com/JeremyMorgan/markdownsmash
 - name: OpenCV
   logo: opencv
   url: https://www.oprncv.org
@@ -25,6 +28,7 @@
     - url: https://github.com/JeremyMorgan/OpenCV-Erosion-Demo
     - url: https://github.com/JeremyMorgan/OpenCV-Dilation-Demo
     - url: https://github.com/JeremyMorgan/OpenCV-Simple-Thresholding-Demo
+    - url: https://github.com/JeremyMorgan/OpenCV_Compress_Image_Tutorial
 - name: Golang
   logo: go
   url: https://golang.org
