@@ -18,7 +18,7 @@ I'm a huge fan of [Hugo](https://gohugo.io/) and I'm finding new ways to modify 
 
 You can catch [my live streams here](https://www.twitch.tv/jeremymorgan) or check out my [YouTube Channel](https://www.youtube.com/jeremymorgan)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremymorgan&hide=javascript,html&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremymorgan&hide=javascript,html&langs_count=6)
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremymorgan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!--
 **JeremyMorgan/JeremyMorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
